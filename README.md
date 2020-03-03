@@ -21,3 +21,10 @@ Item: 56, Height: 2, Balance: 0, Level :3
 Item: 37, Height: 1, Balance: 0, Level :4
 Item: 78, Height: 1, Balance: 0, Level :4
 ```
+## Requirements
+
+C++.
+
+Tested with C++ 11 on Mac OS X 10.14.
+
+Doesn't require any external packages, so it should be platform-agnostic.
