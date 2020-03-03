@@ -27,4 +27,6 @@ C++.
 
 Tested with C++ 11 on Mac OS X 10.14.
 
+In order to run the program, the input file must be in the same directory as the cpp file, since the cpp file opens the text file without specifying an explicit file path.
+
 Doesn't require any external packages, so it should be platform-agnostic.
